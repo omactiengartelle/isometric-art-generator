@@ -82,3 +82,13 @@ echo "$URL"
 ```
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node isometricartgenerator.js "isometric illustration, clean vector-style 3d perspective, vibrant flat colors, soft shading, geometric precision, studio lighting, modern saas-style design, crisp edges, white background"
+```
+
+![Example output](https://oss.talesofai.cn/picture/849ec518-cdcd-4e6e-adfc-275276c54ff1.webp)
+
+> Prompt: *"isometric illustration, clean vector-style 3d perspective, vibrant flat colors, soft shading, geometric precision, studio lighting, modern saas-style design, crisp edges, white background"*
